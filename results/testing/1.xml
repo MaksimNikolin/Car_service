@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<annotation>
+    <folder>u1</folder>
+    <filename>1.jpeg</filename>
+    <path>u1</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <segmented>0</segmented>
+    <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>54</xmin>
+        <ymin>192</ymin>
+        <xmax>745</xmax>
+        <ymax>968</ymax>
+    </bndbox>
+</object><object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>574</ymin>
+        <xmax>173</xmax>
+        <ymax>1003</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>271</xmin>
+        <ymin>906</ymin>
+        <xmax>437</xmax>
+        <ymax>953</ymax>
+    </bndbox>
+</object><object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>304</xmin>
+        <ymin>371</ymin>
+        <xmax>440</xmax>
+        <ymax>477</ymax>
+    </bndbox>
+</object>
+</annotation>
