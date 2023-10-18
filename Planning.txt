@@ -1,0 +1,24 @@
+Shedule:
+12      waiky
+14-16   PROGRAMMING_PART1 (2 hours)
+16-18   ENGLISH           (2 hours)
+19-23   PROGRAMMING_PART2 (4 hours)
+        WORKOUT           (every second day)
+02      sleep
+
+Plan:
+#) November trip - обсудить квартиру
+#) Fraud_scoring - найти видео с разбором задачи кластеризации с Roc, gini
+#) Модель в R, модель многоклассовой классификации (разные данные)
+
+
+Выезд - оранжевые кроссы, синие джинсы, черная кофта, джинсовка, кепка.
+С собой - белая рубашка, конверсы, пижама, черные шорты.
+Помимо - телефон, наушники, документы, зарядный блок, селфи-палка.
+
+https://www.booking.com/hotel/tr/your-comfort-place-in-besiktas.ru.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaO4BiAEBmAEhuAEXyAEM2AEB6AEB-AEMiAIBqAIDuALAstynBsACAdICJGYzYmY1ZTdhLTU4MTYtNDJlZC04OGVjLWIxMWFmZWZkYzA0M9gCBuACAQ&sid=a96a78adc82eb87b5da7b1b36ac14c7e&atlas_src=sr_iw_btn;checkin=2023-11-13;checkout=2023-11-20;dest_id=-755070;dest_type=city;dist=0;group_adults=3;group_children=0;highlighted_blocks=1051061401_377342471_3_0_0;nflt=oos%3D1%3Bhotelfacility%3D107%3Bprice%3DUSD-min-80-1%3Btdb%3D2%3Bentire_place_bedroom_count%3D2;no_rooms=1;room1=A%2CA%2CA;sb_price_type=total;type=total;ucfs=1&
+265$
+https://www.booking.com/hotel/tr/butiq-flat-sisli.ru.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaO4BiAEBmAEhuAEXyAEM2AEB6AEB-AEMiAIBqAIDuAL68t2nBsACAdICJGU1NzNjYzYzLWI4ZDktNGRmYS1iNGU2LTFkZTJjYzdiZmM1ZdgCBuACAQ&sid=a96a78adc82eb87b5da7b1b36ac14c7e&dest_id=-755070&dest_type=city&nflt=oos%3D1%3Bhotelfacility%3D107%3Bprice%3DUSD-min-90-1%3Bmealplan%3D999%3Breview_score%3D90%3Breview_score%3D80%3Bentire_place_bedroom_count%3D2&room1=A%2CA%2CA&;group_adults=3;group_children=0;no_rooms=1;checkin=2023-11-13;checkout=2023-11-20;highlighted_blocks=953553201_367901656_4_0_0;atlas_src=sr_iw_btn;from_sr_map=1;from=searchresults;ucfs=1
+292$
+https://www.booking.com/hotel/tr/nostalji-hostel.ru.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaO4BiAEBmAEhuAEXyAEM2AEB6AEB-AEMiAIBqAIDuALVmI2oBsACAdICJGMzMjc5MWEwLTk1OWEtNDE1NC1hOGU2LTNhMTAxODc0NDk3N9gCBuACAQ&sid=416f19ebfcb1be5ed5bc75a5263a7b31&atlas_src=sr_iw_btn;checkin=2023-11-13;checkout=2023-11-19;dest_id=-755070;dest_type=city;dist=0;group_adults=1;group_children=0;highlighted_blocks=591886101_376232820_1_34_0;nflt=oos%3D1%3Bprice%3DUSD-min-20-1;no_rooms=1;room1=A;sb_price_type=total;type=total;ucfs=1&
+48$
