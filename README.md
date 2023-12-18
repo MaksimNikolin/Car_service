@@ -8,8 +8,8 @@ The dataset is collected from a photo stream from a videcam installed in a car s
 To implement the task, we use the pre-trained _Yolov7_ model, modified for our three classes.
 
 ## Files:
-- training_model_yolov7 - model training on 50 epochs\                                                                                                                                                               
-- pt_to_onnx - to convert the best.pt model to best.onnx\                                                                                                                                                            
+- training_model_yolov7 - model training on 50 epochs                                                                                                                                                               
+- pt_to_onnx - to convert the best.pt model to best.onnx                                                                                                                                                            
 - testing - testing the model
 
 ## Results:
