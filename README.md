@@ -1,3 +1,5 @@
+### date of creation: May, 2023
+
 ## Problem:
 To develop an algorithm for detecting various objects in images. The following classes are taken: car, plate, person.
 What is it for? Keep count of the number of incoming cars with further calculation of financial metrics, as well as track the work activities of car mechanics.
