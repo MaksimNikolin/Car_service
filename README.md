@@ -1,4 +1,4 @@
-### date of creation: May, 2023
+**date of creation: May, 2023**
 
 ## Problem:
 To develop an algorithm for detecting various objects in images. The following classes are taken: car, plate, person.
